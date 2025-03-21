@@ -1,6 +1,7 @@
 ## 안녕하세요 유채현입니다 👋
 
 잘부탁드립니다!!
+감사합니다.
 
 <!--
 **chaeging/chaeging** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
